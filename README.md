@@ -1,1 +1,2 @@
-# ai-garbage-identification
+# aiml
+Repository for machine learning models
